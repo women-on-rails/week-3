@@ -204,13 +204,15 @@ Rafraichissez la page de votre navigateur et voila ! Vous avez les éléments co
 
 ![Page de base](/images/readme/vue_avec_tableau.png)
 
+# Étape 3 : Pour aller plus loin
+
 Pour aller plus loin, vous pouvez créer une nouvelle classe et remplacer le tableau de chaines de caractères par un tableau contenant plusieurs instances de cette classe. Dans la vue, vous pourriez afficher un attribut de chacune des instances du tableau.
 
 # Étape 3 : Enregistrer les modifications sur le répertoire distant
 
 [Enregistrer vos modifications et les envoyer sur votre répertoire Github](https://women-on-rails.github.io/guide/push_project)
 
-# Pour aller plus loin :
+# Liens Utiles :
 - Le protocole HTTP : https://openclassrooms.com/courses/les-requetes-http
 - Les actions CRUD : https://fr.wikipedia.org/wiki/CRUD
 - La documentation officielle de Ruby On Rails : http://guides.rubyonrails.org/
