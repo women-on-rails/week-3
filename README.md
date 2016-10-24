@@ -208,7 +208,7 @@ Rafraichissez la page de votre navigateur et voila ! Vous avez les éléments co
 
 Pour aller plus loin, vous pouvez créer une nouvelle classe et remplacer le tableau de chaines de caractères par un tableau contenant plusieurs instances de cette classe. Dans la vue, vous pourriez afficher un attribut de chacune des instances du tableau.
 
-# Étape 3 : Enregistrer les modifications sur le répertoire distant
+# Étape 4 : Enregistrer les modifications sur le répertoire distant
 
 [Enregistrer vos modifications et les envoyer sur votre répertoire Github](https://women-on-rails.github.io/guide/push_project)
 
