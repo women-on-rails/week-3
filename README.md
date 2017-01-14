@@ -224,3 +224,6 @@ Pour aller plus loin, vous pouvez créer une nouvelle classe et remplacer le tab
 - Tableaux, hashes et symboles : https://www.grafikart.fr/formations/apprendre-ruby/array-hash ou https://zestedesavoir.com/tutoriels/634/une-introduction-a-ruby/497_les-bases/2490_les-tableaux/
 - Les booléens : http://www.tonyryudev.com/joomla3/index.php/menu-mes-developpements/menu-cours-ruby-rgss/4-ruby-cours-n-3-les-booleens-et-les-calculs-logiques
 - Découverte des variables et de leur contexte : https://hackademy.io/tutoriel-videos/introduction-ruby-partie-4
+
+# Et ensuite ?
+Venez comprendre l'utilisation des modèles dans l'application ```Curiosities``` et manipuler des objets dans un controleur et une vue grace au tutoriel [Week-4](https://github.com/women-on-rails/week-4)
