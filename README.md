@@ -66,7 +66,7 @@ Ouvrez une console ruby en tapant ```irb``` dans votre terminal et maintenant pa
   ``` Console
   tableau1.each do |element|
     # écrire ce que vous voulez faire avec chacun des éléments du tableau
-    element.upcase
+    puts element.upcase
   end
   ```
 
